@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Web Developer Express 2010
+# Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcPlantilla", "MvcPlantilla.csproj", "{9A10C2A6-BF8F-4E7B-B9F6-70B71C1F9AE2}"
 EndProject
 Global
