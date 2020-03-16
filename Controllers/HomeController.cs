@@ -4,13 +4,14 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 using System.Data.SqlClient;
-using System.Configuration;
+using System.Data;
+
 
 using MvcPlantilla.Utilerias;
 	
 
 
-namespace MvcPlantilla.Utilerias
+namespace MvcPlantilla.Controllers
 {
     public class HomeController : Controller
     {
