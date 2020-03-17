@@ -7,7 +7,7 @@
     <title>Delete</title>
 </head>
 <body>
-   <form action="/Video/Create" method="post">
+   <form action="/Video/Delete" method="post">
 
 <fieldset>
 
