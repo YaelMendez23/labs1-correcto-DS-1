@@ -11,7 +11,7 @@
 
 <fieldset>
 
-<legend>Registra un Video</legend>
+<legend>eliemina  un Video</legend>
 
 <Label for ="idVideo">idVideo</Label>
 <input type="Text" name="idVideo"/>
