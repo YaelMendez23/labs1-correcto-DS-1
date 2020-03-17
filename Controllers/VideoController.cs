@@ -98,7 +98,7 @@ namespace MvcPlantilla.Controllers
 
             parametros.Add(new SqlParameter("@Url", Url));
 
-            BaseHelper.EjecutarSentencia("UPDATE SET @idVideo=idVideo,@titulo=tiulo,@Repro=Repro, @Url=Url  Where @idVideo=idVideo", CommandType.Text, parametros);
+            BaseHelper.EjecutarSentencia("UPDATE Video SET @idVideo=idVideo,@titulo=tiulo,@Repro=Repro, @Url=Url  Where @idVideo=idVideo", CommandType.Text, parametros);
 
             return View();
 

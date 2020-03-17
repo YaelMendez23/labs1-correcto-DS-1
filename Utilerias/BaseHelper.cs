@@ -6,7 +6,7 @@ using System.Data;
 using System.Data.SqlClient;
 using System.Configuration;
 
-namespace MVCPlantilla.Utilerias
+namespace MvcPlantilla.Utilerias
 {
     public class BaseHelper
     {

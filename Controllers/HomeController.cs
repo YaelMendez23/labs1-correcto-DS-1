@@ -11,7 +11,7 @@ using MvcPlantilla.Utilerias;
 	
 
 
-namespace MvcPlantilla.Controllers
+namespace   MvcPlantilla.Controllers
 {
     public class HomeController : Controller
     {

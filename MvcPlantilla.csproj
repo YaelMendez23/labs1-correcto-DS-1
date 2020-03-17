@@ -76,9 +76,12 @@
     <Compile Include="Utilerias\BaseHelper.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="..\codigo  lab 1.aspx" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
-    <Content Include="Views\Home\Index.aspx" />
+    <Content Include="..\Index.aspx">
+      <Link>Views\Home\Index.aspx</Link>
+    </Content>
     <Content Include="Views\Video\Create.aspx" />
     <Content Include="Views\Video\Delete.aspx" />
     <Content Include="Views\Video\Index.aspx" />
