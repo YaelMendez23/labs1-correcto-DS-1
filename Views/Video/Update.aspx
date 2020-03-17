@@ -10,7 +10,7 @@
    <form action="/Video/Update" method="post">
 <fieldset>
 
-<legend>Registra un Video</legend>
+<legend>Actualiza un Video</legend>
 
 <Label for ="idVideo">idVideo</Label>
 <input type="Text" name="idVideo"/>
