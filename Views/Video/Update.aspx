@@ -19,7 +19,7 @@
 <input type="Text" name="titulo"/>
 
 <Label for ="Repro">Repro</Label>
-<input type="Text" name="idVideo"/>
+<input type="Text" name="Repro"/>
 
 <Label for ="Url">Url</Label>
 <input type="Text" name="Url"/>
