@@ -11,7 +11,7 @@
 
 <fieldset>
 
-<legend>eliemina  un Video</legend>
+<legend>eliminar un Video</legend>
 
 <Label for ="idVideo">idVideo</Label>
 <input type="Text" name="idVideo"/>
