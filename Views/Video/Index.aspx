@@ -8,7 +8,6 @@
 </head>
 <body>
 
-<form action="/Video/Index" method="post">
 
 <h1>Mi lista:</h1>
 Hay
@@ -39,7 +38,7 @@ picture-in-picture" allowfullscreen></iframe>
 
 %>
 
-</form>
+
 
 </body>
 </html>
