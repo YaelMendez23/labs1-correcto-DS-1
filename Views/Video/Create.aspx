@@ -7,7 +7,7 @@
     <title>Create</title>
 </head>
 <body>
-   <form action="/Video/Create" method="post">
+   <form action="/Video/Create" method="post"
 
 <fieldset>
 
