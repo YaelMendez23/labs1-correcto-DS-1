@@ -7,7 +7,7 @@
     <title>Update</title>
 </head>
 <body>
-   <form action="/Video/Update" method="post">
+   <form action="/Video/Update" method="post"
 <fieldset>
 
 <legend>Actualiza un Video</legend>
